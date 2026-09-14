@@ -1,0 +1,10 @@
+bin
+ban
+boot
+cdrom
+dev
+etc
+home
+lib
+lib64
+lost+foundx
