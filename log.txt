@@ -6,3 +6,5 @@ text.txt
 2
 1
 dfd
+test
+test
