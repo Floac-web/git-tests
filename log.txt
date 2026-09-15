@@ -9,5 +9,7 @@ dfd
 test
 test
 custom
+some logs
 
+some another log
 some
