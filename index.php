@@ -12,3 +12,5 @@ $a = 45;
 $b = 34;
 
 $c = 125;
+
+print ('some new string');
