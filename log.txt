@@ -8,3 +8,4 @@ text.txt
 dfd
 test
 test
+custom
