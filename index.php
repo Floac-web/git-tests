@@ -19,3 +19,5 @@ print ('some main changes');
 
 print ('some feature changes fixed');
 print ('some another feature');
+
+print ('some main changes');
