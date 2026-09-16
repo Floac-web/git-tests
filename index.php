@@ -26,6 +26,8 @@ print ('some feature minor chanegs');
 
 print ('query main');
 
+print ('kimi main');
+
 print ('minor feature slime');
 
 print ('minor feature slime');
