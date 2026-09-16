@@ -31,7 +31,3 @@ print ('minor feature slime');
 print ('minor feature slime');
 
 print ('minor feature slime');
-
-print ('minor feature slime');
-
-print ('minor feature slime');
