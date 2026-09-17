@@ -55,3 +55,5 @@ print ('minor feature slime');
 print ('feature fix');
 
 print ('main changes');
+
+print ('feature any');
